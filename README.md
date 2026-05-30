@@ -445,48 +445,43 @@ jupyter
 \---
 
 
-
 ## 📊 Dashboard Preview
 
 ### 1. Executive Summary Dashboard
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](Screenshots/executive_summary.png)
 
 ### 2. Sales Trend Analysis Dashboard
-![Sales Trend Analysis](screenshots/sales_trend.png)
+![Sales Trend Analysis](Screenshots/sales_trend.png)
 
 ### 3. Product Performance Dashboard
-![Product Performance](screenshots/product_performance.png)
+![Product Performance](Screenshots/product_performanc.png)
 
 ### 4. Customer Analytics & Segmentation
-![Customer Analytics](screenshots/customer_analytics.png)
+![Customer Analytics](Screenshots/customer_analytics.png)
 
 ### 5. Region/Country Sales Dashboard
-![Region Country Sales](screenshots/region_sales.png)
+![Region Country Sales](Screenshots/region_sales.png)
 
 ### 6. Monthly & Seasonal Sales Dashboard
-![Monthly Seasonal Sales](screenshots/monthly_seasonal.png)
+![Monthly Seasonal Sales](Screenshots/monthly_seasonal.png)
 
 ### 7. Customer Behaviour Dashboard
-![Customer Behaviour](screenshots/customer_behaviour.png)
+![Customer Behaviour](Screenshots/customer_behaviour.png)
 
 ### 8. Profit & Revenue Analysis Dashboard
-![Profit Revenue](screenshots/profit_revenue.png)
+![Profit Revenue](Screenshots/profit_revenue.png)
 
 ### 9. Inventory Risk Dashboard
-![Inventory Risk](screenshots/inventory_risk.png)
+![Inventory Risk](Screenshots/inventory_risk.png)
 
 ### 10. Order & Transaction Dashboard
-![Order Transaction](screenshots/order_transaction.png)
+![Order Transaction](Screenshots/order_transaction.png)
 
 ### 11. Advanced Analytics Dashboard
-![Advanced Analytics](screenshots/advanced_analytics.png)
+![Advanced Analytics](Screenshots/advanced_analytics.png)
 
 ### 12. Interactive Filter Dashboard
-![Interactive Filter](screenshots/interactive_filter.png)
-
-
-
-\---
+![Interactive Filter](Screenshots/interactive_filter.png)
 
 
 
